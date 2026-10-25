@@ -130,6 +130,7 @@ MonoBehaviour:
   hitEffect: {fileID: 4745404215946090831, guid: b1d32afea14cff24daba32992de1f5c3, type: 3}
   effectDuration: 3
   hitSound: {fileID: 8300000, guid: e3eb16a1e67c6e744a9f01ccb803bbed, type: 3}
+  points: -25
 --- !u!1 &827728630996515193
 GameObject:
   m_ObjectHideFlags: 0
@@ -295,3 +296,4 @@ MonoBehaviour:
   hitEffect: {fileID: 4745404215946090831, guid: b1d32afea14cff24daba32992de1f5c3, type: 3}
   effectDuration: 3
   hitSound: {fileID: 8300000, guid: e3eb16a1e67c6e744a9f01ccb803bbed, type: 3}
+  points: -25

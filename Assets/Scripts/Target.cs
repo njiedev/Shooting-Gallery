@@ -10,6 +10,9 @@ public class Target : MonoBehaviour
 
     public AudioClip hitSound;
 
+    // Score awarded by the GameManager when this part of the target is shot (negative for penalties).
+    public int points;
+
     protected Effect effectScript;
 
     private void Awake()
