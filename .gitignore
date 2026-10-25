@@ -28,7 +28,3 @@
 *.unitypackage
 crashlytics-buildid.txt
 sysinfo.txt
-
-# Course materials (lecture PDFs and Canvas downloads); the assets used are copied into Assets/
-/claude/
-/*.pdf
